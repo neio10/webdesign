@@ -178,6 +178,7 @@ body {
 .div-ingredients {
     width: 25rem;
     text-align: center;
+    padding: .5rem;
 }
 
 .hamburguesa-ingredients {
