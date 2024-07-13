@@ -166,12 +166,14 @@ body{
 }
 
 .hamburguesa-price{
+    font-size: 2rem;
     color: rgb(59, 252, 59);
 }
 
 .div-ingredients{
     width: 25rem;
     text-align: center;
+    padding: .5rem;
 }
 
 .hamburguesa-ingredients{
